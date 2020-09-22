@@ -61,8 +61,11 @@ Para descargar dichos cambios
 #Herramientas para la práctica
 
 -https://github.com/
+
 -https://www.jetbrains.com/es-es/youtrack/
+
 -https://www.visual-paradigm.com/
+
 -https://www.eclipse.org/downloads/
 
 
