@@ -58,9 +58,9 @@ Para descargar dichos cambios
      
      git pull
        
-#Herramientas para la práctica
+# Herramientas para la práctica
 
--https://github.com/
+-Github(https://github.com/)
 
 -https://www.jetbrains.com/es-es/youtrack/
 
