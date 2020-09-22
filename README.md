@@ -60,13 +60,13 @@ Para descargar dichos cambios
        
 # Herramientas para la práctica
 
--Github(https://github.com/)
+-[Github](https://github.com/)
 
--https://www.jetbrains.com/es-es/youtrack/
+-[YouTrack](https://www.jetbrains.com/es-es/youtrack/)
 
--https://www.visual-paradigm.com/
+-[Visual Paradigm](https://www.visual-paradigm.com/)
 
--https://www.eclipse.org/downloads/
+-[Eclipse](https://www.eclipse.org/downloads/)
 
 
 
